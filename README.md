@@ -19,7 +19,8 @@ Visual components and Python
 ## Experiment:
 ![image](https://github.com/sharmitha3/Open-Jacson-Networks/assets/145974496/181c72f5-51d8-4bed-a67b-bc17b6805e74)
 
-![image](https://github.com/sharmitha3/Open-Jacson-Networks/assets/145974496/de4daab1-9ead-420e-bc19-e8e3e6e8fb56)
+![image](https://github.com/sharmitha3/Open-Jacson-Networks/assets/145974496/abccc2cd-a05c-41c8-8bbd-bb73fb79073d)
+
 
 
 ## Program
@@ -63,8 +64,9 @@ else:
 print("----------------------------------------------------------------------")
 ~~~
 
+
 ## Output
-![image](https://github.com/sharmitha3/Open-Jacson-Networks/assets/145974496/967e5119-d1c4-4980-83ee-f717b5ab505e)
+![image](https://github.com/sharmitha3/Open-Jacson-Networks/assets/145974496/103d6d1e-8113-41d0-94dc-ab3245ea26c5)
 
 
 ## Result
